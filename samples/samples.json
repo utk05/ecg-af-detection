@@ -1,0 +1,50 @@
+[
+  {
+    "file": "A01741.npy",
+    "record": "A01741",
+    "true": "Normal",
+    "fs": 300
+  },
+  {
+    "file": "A01899.npy",
+    "record": "A01899",
+    "true": "Normal",
+    "fs": 300
+  },
+  {
+    "file": "A02475.npy",
+    "record": "A02475",
+    "true": "AF",
+    "fs": 300
+  },
+  {
+    "file": "A07563.npy",
+    "record": "A07563",
+    "true": "AF",
+    "fs": 300
+  },
+  {
+    "file": "A05359.npy",
+    "record": "A05359",
+    "true": "Other",
+    "fs": 300
+  },
+  {
+    "file": "A02810.npy",
+    "record": "A02810",
+    "true": "Other",
+    "fs": 300
+  },
+  {
+    "file": "A08021.npy",
+    "record": "A08021",
+    "true": "Noisy",
+    "fs": 300
+  },
+  {
+    "file": "A08468.npy",
+    "record": "A08468",
+    "true": "Noisy",
+    "fs": 300
+  }
+]
